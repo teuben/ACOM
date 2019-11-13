@@ -7,8 +7,6 @@ Every "month" (or so) we will feature a code from ASCL.
    :maxdepth: 1
    :caption: Contents:
 
-   montage
-   martini
    eagle/eagle
    tips
    
