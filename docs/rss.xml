@@ -15,6 +15,21 @@
   
   <!--   pubDate with:  date +"%a, %d %b %Y %H:%M:%S %z"  -->
  
+  <item>
+    <title>
+      Testing
+    </title>
+    <pubDate>
+      Mon, 23 Mar 2020 09:44:53 -0400
+    </pubDate>
+    <description>
+      RSS items cannot be easily edited and seen. RSS does not seem to forget.
+    </description>
+    <guid>
+      http://www.astro.umd.edu/~teuben/_build/html
+    </guid>
+  </item>
+
   
   <item>
     <title>
@@ -25,8 +40,7 @@
     </pubDate>
     <description>
       We need to get codes in here, but the link below is the starting point for a draft design.
-      Anything here will eventually be replaced.  It is hard to make your RSS reader to see 
-      updated content.
+      Anything here will eventually be replaced.
     </description>
     <guid>
       http://www.astro.umd.edu/~teuben/_build/html
