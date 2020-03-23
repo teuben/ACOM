@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="https://teuben.github.io/ACOM/rss.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://teuben.github.io/ACOM/rss.xml" rel="self" type="application/rss+xml" />
 
-<title>
-ACOM
-</title>
-<description>
-ASCL Code of the Month, but this is just a placeholder .....
-</description>
-<link>
-https://teuben.github.io/ACOM/rss.xml
-</link>
-
-
-
-<item>
-<title>
-Special call for codes
-</title>
-<description>
-We need to get codes in here
-</description>
-<guid>
-  http://www.astro.umd.edu/~teuben/_build/html
-</guid>
-</item>
-
+  <title>
+    ACOM
+  </title>
+  <description>
+    ASCL Code of the Month, but this is just a placeholder .....
+  </description>
+  <link>
+    https://teuben.github.io/ACOM/rss.xml
+  </link>
+  
+  <!--   pubDate with:  date +"%a, %d %b %Y %H:%M:%S %z"  -->
+ 
+  
+  <item>
+    <title>
+      Special call for codes
+    </title>
+    <pubDate>
+      Sun, 22 Mar 2020 20:26:57 -0400
+    </pubDate>
+    <description>
+      We need to get codes in here, but the link below is the starting point for a draft design.
+      Anything here will eventually be replaced.
+    </description>
+    <guid>
+      http://www.astro.umd.edu/~teuben/_build/html
+    </guid>
+  </item>
+  
 </channel>
 </rss>
